@@ -27,7 +27,6 @@ module Heroku::Command
 Git URL:       git@heroku.com:example.git
 Owner Email:   email@example.com
 Stack:         cedar
-Tier:          Legacy
 Web URL:       http://example.herokuapp.com/
 STDOUT
       end
@@ -40,7 +39,6 @@ STDOUT
 Git URL:       git@heroku.com:example.git
 Owner Email:   email@example.com
 Stack:         cedar
-Tier:          Legacy
 Web URL:       http://example.herokuapp.com/
 STDOUT
       end
@@ -61,7 +59,6 @@ repo_size=
 requested_stack=
 slug_size=
 stack=cedar
-tier=legacy
 web_url=http://example.herokuapp.com/
 workers=0
 STDOUT
